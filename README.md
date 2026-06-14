@@ -49,9 +49,9 @@ Kaggle IPL Dataset (2008–2025)
 ## Author
 
 **Dev Vaid**
-UID: O24MCA110236
-Master of Computer Applications (MCA)
-Chandigarh University, Mohali
+-UID: O24MCA110236
+-Master of Computer Applications (MCA)
+-Chandigarh University, Mohali
 
 ## Repository Contents
 
